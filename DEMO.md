@@ -43,7 +43,10 @@ Line 95: `<h1 class="font-heading text-5xl md:text-7xl font-bold mb-4">Your Name
 - Lines 235-265: Resepsi details
 
 **Replace Gallery Images:**
-Replace URLs in lines 148-169 with your own image URLs
+Replace URLs in lines 150-175 with your own wedding photo URLs or download free images from:
+- Unsplash.com (search: "wedding couple")
+- Pexels.com (search: "anime wedding" or "wedding")
+- Pixabay.com (search: "wedding illustration")
 
 **Change Theme Colors:**
 - Purple classes: `bg-purple-600`, `text-purple-600`
